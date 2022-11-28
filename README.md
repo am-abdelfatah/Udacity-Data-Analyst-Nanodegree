@@ -10,8 +10,8 @@ This repository will contain the published case studies and projects within the 
 ### 🚲 __[Project 1: Explore US Bike Share Data](https://github.com/am-abdelfatah/Udacity-Data-Analyst-Nanodegree/blob/main/project_1-us_bikeshare.ipynb)__
 In this project, we made use of Python to explore data related to bike share systems for three major cities in the United States (Chicago, New York City, and Washington) 
 * We provided a script to import the data and utilize descriptive statistics to answer some interesting questions about. 
-* We created an interactive experience in the terminalto handle user inputs to create and present these statistics.
-Project cleand data are available [here!](https://drive.google.com/drive/folders/15oELl4btNrxf15lCoF1mXBjKXpwprDHF?usp=share_link)
+* We created an interactive experience in the terminal to handle user inputs to create and present these statistics.
+Project cleaned data are available [here!](https://drive.google.com/drive/folders/15oELl4btNrxf15lCoF1mXBjKXpwprDHF?usp=share_link)
 
 ## Part 2: Data Analysis
 2 Case Studies and 1 Analysis Project, will be published before 14/12

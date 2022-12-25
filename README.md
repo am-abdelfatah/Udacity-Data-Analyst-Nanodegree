@@ -29,4 +29,11 @@ In this lab we will load stock data into a Pandas Dataframe and calculate some s
 
 
 ## Part 2: Data Analysis
-2 Case Studies and 1 Analysis Project, will be published before 14/12
+
+### :clapper: __[Project 2: What Makes a Film Successful? - An analysis of more than 10,000 movies](https://github.com/am-abdelfatah/Udacity-Data-Analyst-Nanodegree/blob/main/project_2-tmdb_movies_analysis.ipynb)__
+
+__You can view the jupyter notebook for any project by pressing on the blue title of the project it self__
+
+What can we say about the success of a movie before it is released? Are there certain companies that have found a consistent successful formula? Given that major films costing over __$100 million__ to produce can still flop, this question is more important than ever to the industry. Film aficionados might have different interests. Can we predict which films will be highly rated, whether or not they are a commercial success?
+
+We will attempt to answer these question using a data set that contains information about __10,000 movies__ collected from __The Movie Database (TMDb)__, including user ratings and revenue.

@@ -7,6 +7,7 @@ This repository will contain the published case studies and projects within the 
 
 - [Exploring US Bike Share Data Using Python](https://github.com/am-abdelfatah/Udacity-Data-Analyst-Nanodegree/edit/main/README.md#-project-1-explore-us-bike-share-data)
 - [Pandas Mini Project: Statistics about Stock Data](https://github.com/am-abdelfatah/Udacity-Data-Analyst-Nanodegree/edit/main/README.md#chart_with_upwards_trend-pandas-mini-project-statistics-about-stock-data)
+- [What Makes a Film Successful? - An analysis of more than 10,000 movies](https://github.com/am-abdelfatah/Udacity-Data-Analyst-Nanodegree/edit/main/README.md#clapper-project-2-what-makes-a-film-successful---an-analysis-of-more-than-10000-movies)
 
 ![image](https://user-images.githubusercontent.com/59232546/203462476-02ab2835-6e42-4475-a986-6f7e0b163086.png)
 
